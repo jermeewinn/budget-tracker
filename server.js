@@ -27,3 +27,4 @@ app.use(require("./routes/api.js"));
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
+// Note to self be sure to use the cloud pw not the account pw for MongoDB Atlas integration
