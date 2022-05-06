@@ -13,10 +13,14 @@ This is a budget-tracking application. The main components of the application we
 - MongoDB Atlas
 - Express.js
 
+## Screenshot
+![Budget-Tracker](https://user-images.githubusercontent.com/88342540/167062123-f56ccbe7-2627-4dbf-a03a-338d5350456d.png)
+
 
 ## Heroku Deployment
 <https://peaceful-journey-89449.herokuapp.com/>
 
 ## Contributors
 Made by Jeremy Huynh
+
 
