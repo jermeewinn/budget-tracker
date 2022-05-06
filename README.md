@@ -14,7 +14,8 @@ This is a budget-tracking application. The main components of the application we
 - Express.js
 
 ## Installation
-- git clone 
+- git clone git@github.com:jermeewinn/budget-tracker.git
+- npm start
 
 ## Screenshot
 ![Budget-Tracker](https://user-images.githubusercontent.com/88342540/167062123-f56ccbe7-2627-4dbf-a03a-338d5350456d.png)
